@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VrPAgQijHfwt0sln6aiHwTIyxbNMqDrzhV5INBjfuGwp/L7kinWcqNmessz5WeIyDlcKy4j9eeb05J6BMy97g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Wpf_instagram\\Scraping\\Scraping\\Scraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
